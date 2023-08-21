@@ -1,0 +1,6 @@
+[submodule "programming/include"]
+	path = programming/include
+	url = https://github.com/CoppeliaRobotics/include
+[submodule "remoteApi"]
+	path = remoteApi
+	url = git@github.com:CoppeliaRobotics/remoteApi.git
